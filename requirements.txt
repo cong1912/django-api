@@ -2,3 +2,4 @@ Django==4.11.1
 djangorestframework==3.14.0
 mysqlclient==2.1.1
 django-mysql==4.8.0
+pyJWT==1.7.1
